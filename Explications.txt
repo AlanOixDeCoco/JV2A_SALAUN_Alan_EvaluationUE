@@ -1,0 +1,5 @@
+Rendu d'examen UE du 17/04/2024
+
+Features variantes :
+   - UI : ce qui est demandé, avec en éléments interactifs la vie du joueur et le nombre de Korogus collectés
+   - AI : Controleur et Character ainsi que la logique Blackboard/Tree. Le controleur a marché à un moment puis jamais plus :(
